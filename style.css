@@ -1,3 +1,6 @@
+.body {
+background url(photo-1516541196182-6bdb0516ed27.jpeg)
+}
 .contact {
 background-color: #708090;
  color: white;
@@ -13,7 +16,29 @@ border: 3px solid #000080;
  margin: 20px auto;
  width: 706px;
  height: 128px;
+ text-align: center;
 }
 #goaltext {
  font-size: 17px;
+}
+.jobs {
+border: 3px solid #000080;
+border-radius: 30px;
+margin: 40px 40px
+}
+.experience {
+text-align: center;
+}
+.company {
+font-size: 24px
+}
+.date {
+text-align: right;
+font-size: 19px;
+}
+.title {
+font-size: 16px
+}
+li {
+font-size: 13px
 }
