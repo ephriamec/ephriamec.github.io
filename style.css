@@ -1,5 +1,5 @@
 .body {
-background url(photo-1516541196182-6bdb0516ed27.jpeg)
+background: url(photo-1516541196182-6bdb0516ed27.jpeg)
 }
 .contact {
 background-color: #708090;
@@ -28,17 +28,18 @@ margin: 40px 40px
 }
 .experience {
 text-align: center;
+ font-size: 26px;
 }
 .company {
-font-size: 24px
+font-size: 23px
 }
 .date {
 text-align: right;
-font-size: 19px;
+font-size: 20px;
 }
 .title {
-font-size: 16px
+font-size: 18px
 }
 li {
-font-size: 13px
+font-size: 16px
 }
